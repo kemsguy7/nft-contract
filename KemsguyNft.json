@@ -1,0 +1,18 @@
+{
+    "name": "KEMS",
+    "description": "The Badass",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreiaanjbshmxvqeufuz6evm5awdhdc65q7bcp5xptcgffmiwwtc5mgq",
+    "attributes": [
+       {
+          "trait_type": "Background",
+          "value": "peach"
+       },
+       {
+          "trait_type": "Rarity",
+          "value": "Mythic"
+       }
+    ]
+ }
+
+
+
